@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello people! 👋
+It's nice of you to take a look at my great programmer profile. I'm an **eventful kawai programmer**, so the only bible I read is **The Code**, and I get everyone to converge to code.
 
 <!--
 **mokira3d48/mokira3d48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
