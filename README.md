@@ -1,6 +1,6 @@
 ### printf("Hello world! 👋");
 It's nice of you to take a look at my great programmer profile. <br/>
-I'm **The Evengelic kawai programmer** 😄, so the only `bible` I read and believe in is the Code, and my mission is to converge everyone to the code.
+I'm **The Evengelical kawai programmer** 😄, so the only `bible` I read and believe in is the Code, and my mission is to converge everyone to the code.
 
 <!--
 **mokira3d48/mokira3d48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
