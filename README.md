@@ -1,5 +1,5 @@
 ### printf("Hello world! 👋");
-I'm a computer engineer with a **passion for programming** in general and for designing **artificial intelligence systems** in particular. I specialize in backend development of information systems and applications.
+Developing a particular passion for <b>artificial intelligence (AI)</b> development and everything related to <b>data processing algorithms</b>. I design and program <b>application servers</b> using recommended programming techniques. I try to make my work better in order to quench my thirst for perfectionism.
 <!-- It's nice of you to take a look at my great programmer profile. <br/>
 I'm **The Evengelical kawai programmer** 😄, so the only `bible` I read and believe in is **The Code**, and my mission is to converge everyone to the code. -->
 
